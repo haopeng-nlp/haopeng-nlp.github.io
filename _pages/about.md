@@ -9,9 +9,9 @@ profile:
   image: hao/headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>3314 SC</p>
+    <p>201 North Goodwin Avenue</p>
+    <p>Urbana, IL 61801</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
