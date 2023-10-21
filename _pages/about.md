@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+nav_order: 1
 
 profile:
   align: right
@@ -39,7 +40,3 @@ Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decor
 Please apply to 
 <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
 if you are interested in working with me.
-
-**Personal:**
-I cater to the whims of a trio of furry overlords: [Meera](assets/img/pets/meera.jpg), [Loki](assets/img/pets/loki.jpg), and [Sylvie](assets/img/pets/sylvie.jpg).
-When they release me from their service, I cycle in the summer, and (backcountry) ski in the winter. 

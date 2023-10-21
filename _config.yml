@@ -145,6 +145,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  misc:
+    output: true
+    permalink: /misc/:path/
   teaching:
     output: true
     permalink: /projects/:path/

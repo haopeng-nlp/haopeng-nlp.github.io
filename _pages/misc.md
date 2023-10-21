@@ -1,23 +1,25 @@
 ---
-layout: group
-title: group
-permalink: /group/
+layout: page
+title: misc
+permalink: /misc/
+description: outside of work
 nav: true
+nav_order: 5
+display_categories: [fun]
 horizontal: false
-nav_order: 2
-display_categories: ["Students", "Student Collaborators"]
 ---
 
-<!-- <h2 class="post-title">
-<b> Current Students </b>
-</h2> -->
+
+I cater to the whims of a trio of furry overlords: [Meera](assets/img/pets/meera.jpg), [Loki](assets/img/pets/loki.jpg), and [Sylvie](assets/img/pets/sylvie.jpg).
+When they release me from their service, I cycle in the summer, and (backcountry) ski in the winter. 
+
 
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="post-title"> <b> {{ category }}</b></h2>
+  <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
@@ -36,9 +38,7 @@ display_categories: ["Students", "Student Collaborators"]
     {%- endfor %}
   </div>
   {%- endif -%}
-    <br><br>
   {% endfor %}
-
 
 {%- else -%}
 <!-- Display projects without categories -->
