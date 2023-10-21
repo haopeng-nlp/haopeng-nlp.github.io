@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minyang Tian
+title: Minyang<br>Tian
 description: UIUC
 img: assets/img/students/blue.jpeg
 <!--- redirect: -->

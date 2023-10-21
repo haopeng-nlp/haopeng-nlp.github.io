@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Muhammad Khalifa
+title: Muhammad<br>Khalifa
 description: UMich
 img: assets/img/students/muhammad.jpeg
 redirect: https://mukhal.github.io/

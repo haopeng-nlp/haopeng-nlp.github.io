@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genglin Liu
+title: Genglin<br>Liu
 description: CS MS student
 img: assets/img/students/genglin.jpeg
 importance: 5

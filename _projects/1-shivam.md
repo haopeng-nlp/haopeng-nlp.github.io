@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shivam Agarwal
+title: Shivam<br>Agarwal
 description: CS MS student
 img: assets/img/students/shivam.jpeg
 redirect: https://shivamag125.github.io/

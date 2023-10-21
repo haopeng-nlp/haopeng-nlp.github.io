@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Xingyao Wang
+title: Xingyao<br>Wang
 description: UIUC
 img: assets/img/students/xingyao.jpeg
 redirect: https://xingyaoww.github.io/

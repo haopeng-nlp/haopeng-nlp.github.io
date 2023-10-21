@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tom Sherborne
+title: Tom<br>Sherborne
 description: U Edinburgh
 img: assets/img/students/tom.jpeg
 redirect: https://tomsherborne.github.io/

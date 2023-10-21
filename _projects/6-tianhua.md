@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tianhua Tao
+title: Tianhua<br>Tao
 description: CS MS student
 img: assets/img/students/tianhua.jpeg
 importance: 6
