@@ -1,4 +1,5 @@
 ---
+layout: group
 title: group
 permalink: /group/
 nav: true
