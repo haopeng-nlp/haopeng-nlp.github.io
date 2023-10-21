@@ -9,7 +9,6 @@ display_categories: [fun]
 horizontal: false
 ---
 
-
 I cater to the whims of a trio of furry overlords: [Meera](assets/img/pets/meera.jpg), [Loki](assets/img/pets/loki.jpg), and [Sylvie](assets/img/pets/sylvie.jpg).
 When they release me from their service, I cycle in the summer, and (backcountry) ski in the winter. 
 

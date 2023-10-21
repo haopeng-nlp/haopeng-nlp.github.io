@@ -1,7 +1,6 @@
 ---
-layout: group
+layout: page
 title: group
-description: <b>Prospective Students:</b> I will be taking a couple of graduate students this coming cycle. Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>. Please apply to <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a> if you are interested in working with me.
 permalink: /group/
 nav: true
 horizontal: false
@@ -9,7 +8,8 @@ nav_order: 2
 display_categories: ["students", "student collaborators"]
 ---
 
-<h2 class="category"></h2>
+<h2 class="post-title"> <b>Prospective Students</b></h2>
+I will be taking a couple of graduate students this coming cycle. Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>. Please apply to <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a> if you are interested in working with me.
 
 <!-- pages/projects.md -->
 <div class="projects">
