@@ -1,19 +1,13 @@
 ---
 layout: group
 title: group
-description: **Prospective Students:** I will be taking a couple of graduate students this coming cycle. 
-Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>.
-Please apply to 
-<a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
-if you are interested in working with me.
+description: <b>Prospective Students:</b> I will be taking a couple of graduate students this coming cycle. Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>. Please apply to <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a> if you are interested in working with me.
 permalink: /group/
 nav: true
 horizontal: false
 nav_order: 2
 display_categories: ["students", "student collaborators"]
 ---
-
-
 
 <h2 class="category"></h2>
 
