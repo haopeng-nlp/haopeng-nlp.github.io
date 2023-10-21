@@ -151,7 +151,7 @@ collections:
     permalink: /misc/:path/
   teaching:
     output: true
-    permalink: /projects/:path/
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true

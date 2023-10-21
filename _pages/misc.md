@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: group
 title: misc
 permalink: /misc/
 description: outside of work
