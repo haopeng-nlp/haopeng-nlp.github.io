@@ -34,9 +34,3 @@ I spent one year at the <a href="https://allenai.org/" style="text-decoration:no
 My research interest broadly spans **natural language processing** and **machine learning**.
 My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
 
-
-**Prospective Students:** I am looking for graduate students. 
-Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>.
-Please apply to 
-<a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
-if you are interested in working with me.
