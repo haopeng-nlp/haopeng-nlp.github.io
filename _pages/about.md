@@ -33,3 +33,6 @@ I spent one year at the <a href="https://allenai.org/" style="text-decoration:no
 
 My research interest broadly spans **natural language processing** and **machine learning**.
 My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
+
+Outside of work, I cater to the whims of [a trio of furry overlords](../assets/img/fun/furry_friends.jpeg): [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), and [Sylvie](../assets/img/pets/sylvie.jpg).
+When they release me from their service, I [cycle](../assets/img/fun/stp.jpg) in the summer, and (backcountry) [ski](../assets/img/fun/rainier_top.jpeg) in the winter.
