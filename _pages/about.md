@@ -33,4 +33,3 @@ I spent one year at the <a href="https://allenai.org/" style="text-decoration:no
 
 My research interest broadly spans **natural language processing** and **machine learning**.
 My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
-

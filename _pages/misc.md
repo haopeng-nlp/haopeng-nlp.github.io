@@ -1,7 +1,7 @@
 ---
 layout: page
 title: misc
-permalink: /misc/
+permalink: /
 description: outside of work
 nav: true
 nav_order: 5
