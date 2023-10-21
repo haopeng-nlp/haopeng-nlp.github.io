@@ -5,7 +5,7 @@ permalink: /group/
 nav: true
 horizontal: false
 nav_order: 2
-display_categories: ["Students", "Student Collaborators"]
+display_categories: ["students", "student collaborators"]
 ---
 
 <!-- <h2 class="post-title">

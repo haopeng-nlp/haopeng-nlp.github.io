@@ -5,5 +5,5 @@ description: UIUC
 img: assets/img/students/minyang.jpeg
 <!--- redirect: -->
 importance: 12
-category: "Student Collaborators"
+category: "student collaborators"
 ---

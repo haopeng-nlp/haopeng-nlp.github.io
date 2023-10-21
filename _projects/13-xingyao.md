@@ -5,5 +5,5 @@ description: UIUC
 img: assets/img/students/xingyao.jpeg
 redirect: https://xingyaoww.github.io/
 importance: 13
-category: "Student Collaborators"
+category: "student collaborators"
 ---
