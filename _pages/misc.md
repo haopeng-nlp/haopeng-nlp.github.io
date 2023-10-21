@@ -1,7 +1,7 @@
 ---
 layout: page
 title: misc
-permalink: /
+permalink: /misc/
 description: outside of work
 nav: true
 nav_order: 5
@@ -14,7 +14,6 @@ I cater to the whims of a trio of furry overlords: [Meera](assets/img/pets/meera
 When they release me from their service, I cycle in the summer, and (backcountry) ski in the winter. 
 
 
-<!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
