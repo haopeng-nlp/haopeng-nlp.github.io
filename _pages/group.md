@@ -14,6 +14,9 @@ Please apply to
 <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a>
 if you are interested in working with me.
 
+
+  <h2 class="category"></h2>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
