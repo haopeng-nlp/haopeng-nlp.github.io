@@ -8,15 +8,17 @@ nav_order: 2
 display_categories: ["students", "student collaborators"]
 ---
 
-<h2 class="post-title"> <b>Prospective Students</b></h2>
-I will be taking a couple of graduate students this coming cycle. Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>. Please apply to <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a> if you are interested in working with me.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
+<h2 class="category"> <b>prospective students</b></h2>
+I will be taking a couple of graduate students this coming cycle. Checkout <a href="https://haopeng-nlp.github.io/publications/" style="text-decoration:none">my research</a>. Please apply to <a href="https://grad.illinois.edu/admissions/apply" style="text-decoration:none">UIUC CS Ph.D. program</a> if you are interested in working with me.
+
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
-  <h2 class="post-title"> <b> {{ category }}</b></h2>
+  <h2 class="category"> <b> {{ category }}</b></h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
