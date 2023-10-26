@@ -21,18 +21,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an Assistant Professor at the <a href="https://cs.illinois.edu/" style="text-decoration:none">Department of Computer Science</a> of the <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign (UIUC)</a>.
+I am an Assistant Professor at the [Department of Computer Science](https://cs.illinois.edu/) of the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/).
 
-I received my Ph.D. from the 
-<a href="https://www.washington.edu/" style="text-decoration:none">University of Washington</a>,
-with
-<a href="https://nasmith.github.io/" style="text-decoration:none">Noah Smith</a>,
-and my Bachelors Degree from 
-<a href="https://english.pku.edu.cn/" style="text-decoration:none">Peking University</a>.
-I spent one year at the <a href="https://allenai.org/" style="text-decoration:none">Allen Institute for Artificial Intelligence</a> as a Young Investigator, and time at Microsoft Research, Google, and DeepMind as an intern.
+I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). I spent one year at the [Allen Institute for Artificial Intelligence](https://allenai.org/) as a Young Investigator, and time at Microsoft Research, Google, and DeepMind as an intern.
 
-My research interest broadly spans **natural language processing** and **machine learning**.
-My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
+My research interest broadly spans **natural language processing** and **machine learning**. My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large-scale language models' reasoning capabilities, factuality, and trustworthiness.
 
 Outside of work, I cater to the whims of [a trio of furry overlords](../assets/img/pets/furry_friends.jpeg): [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), and [Sylvie](../assets/img/pets/sylvie.jpg).
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/rainier_top.jpeg) in the winter.
