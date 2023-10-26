@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Minyang<br>Tian
-description: UIUC
+description: Physics PhD student<br>
+co-advised with <a href="https://www.anl.gov/profile/eliu-a-huerta">Eliu Huerta</a>
 img: assets/img/students/minyang.jpeg
-<!--- redirect: -->
-importance: 12
-category: "student collaborators"
+importance: 7
+category: "students"
 ---
