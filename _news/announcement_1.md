@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will give a talk at the <a href="https://c3dti.ai/workshops/generative-ai/" style="text-decoration:none">Generative AI Workshop</a> at <a href="https://www.ncsa.illinois.edu/" style="text-decoration:none">NCSA</a>.
+I gave a talk at the <a href="https://c3dti.ai/workshops/generative-ai/" style="text-decoration:none">Generative AI Workshop</a> at <a href="https://www.ncsa.illinois.edu/" style="text-decoration:none">NCSA</a>.
