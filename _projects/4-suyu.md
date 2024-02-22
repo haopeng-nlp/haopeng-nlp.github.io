@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shivam<br>Agarwal
+title: Suyu<br>Ge<br>co-advised with Jiawei Han
 description: CS MS student<br>co-advised with Jiawei Han
 img: assets/img/students/shivam.jpeg
 redirect: https://shivamag125.github.io/
