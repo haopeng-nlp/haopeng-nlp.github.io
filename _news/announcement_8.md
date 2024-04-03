@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Check out <a href="https://github.com/OpenBMB/Eurus" style="text-decoration:none">Eurus</a>, our state-of-the-art LLMs!
+Check out <a href="https://github.com/OpenBMB/Eurus" style="text-decoration:none">Eurus</a>, our state-of-the-art opensource LLMs!
