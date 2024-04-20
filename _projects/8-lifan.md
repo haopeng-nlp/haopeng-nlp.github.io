@@ -5,5 +5,5 @@ description: Tsinghua; incoming CS PhD student
 img: assets/img/students/lifan.jpeg
 redirect: https://lifan-yuan.github.io/
 importance: 8
-category: "students"
+category: "PhD students"
 ---

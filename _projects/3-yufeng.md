@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Yufeng<br>Du
-description: CS PhD student
+description: CS
 img: assets/img/students/yufeng.jpeg
 importance: 3
-category: "students"
+category: "PhD students"
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Genglin<br>Liu
-description: CS MS student
+description: CS
 img: assets/img/students/genglin.jpeg
 importance: 6
-category: "students"
+category: "MS students"
 redirect: https://genglinliu.github.io/
 ---
