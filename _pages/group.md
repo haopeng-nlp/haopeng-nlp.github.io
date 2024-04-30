@@ -5,7 +5,7 @@ permalink: /group/
 nav: true
 horizontal: false
 nav_order: 2
-display_categories: ["PhD students", "Masters students", "student collaborators"]
+display_categories: ["PhD students", "Masters students"]
 ---
 
 
