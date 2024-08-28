@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Genglin<br>Liu
-description: CS
+description: PhD student, UCLA
 img: assets/img/students/genglin.jpeg
 importance: 6
 category: "Alumni"
