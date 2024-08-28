@@ -29,5 +29,3 @@ My research interest broadly spans **natural language processing** and **machine
 
 Outside of work, I cater to the whims of [a trio of furry overlords](../assets/img/pets/furry_friends.jpeg): [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), and [Sylvie](../assets/img/pets/sylvie.jpg).
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpeg) in the winter.
-
-I'm looking for students and interns that are familiar with and interested in building LLMs. If Megatron, DeepSpeed, and training LLMs with hundreds GPUs sound exciting to you, please drop me an email and include Meera+Loki+Sylvie in the subject!
