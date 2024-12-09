@@ -27,5 +27,5 @@ I received my Ph.D. from the [University of Washington](https://www.washington.e
 
 My research interest broadly spans **natural language processing** and **machine learning**. My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large language models' reasoning capabilities, factuality, and trustworthiness, and their applications in the scientific domain.
 
-Outside of work, I cater to the whims of [a trio of furry overlords](../assets/img/pets/furry_friends.jpeg): [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), and [Sylvie](../assets/img/pets/sylvie.jpg).
+Outside of work, I cater to the whims of [a quartet of furry overlords](../assets/img/pets/furry_friends.jpeg): [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), [Sylvie](../assets/img/pets/sylvie.jpg), and [Kea](../assets/img/pets/kea.JPG).
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpeg) in the winter.
