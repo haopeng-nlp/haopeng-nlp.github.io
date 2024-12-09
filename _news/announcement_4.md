@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-02-15 15:59:00-0400
+date: 2024-12-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Pretrained LLMs can be adapted to handle 128K-long context with surprisingly small amount of continual pretraining. Check out our <a href="https://huggingface.co/papers/2402.10171" style="text-decoration:none">new preprint</a>!
+You don't need step-wise labels to train strong process reward models. Check out our <a href="https://arxiv.org/abs/2412.01981" style="text-decoration:none">new preprint</a>.
