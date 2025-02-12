@@ -25,7 +25,11 @@ I am an Assistant Professor at the [Department of Computer Science](https://cs.i
 
 I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). I spent one year at the [Allen Institute for Artificial Intelligence](https://allenai.org/) as a Young Investigator, and time at Microsoft Research, Google, and DeepMind as an intern.
 
-My research interest broadly spans **natural language processing** and **machine learning**. My current interests primarily include making language AI more efficient and accessible, and evaluating and improving large language models' reasoning capabilities, factuality, and trustworthiness, and their applications in the scientific domain.
+My research broadly spans **natural language processing** and **machine learning**. My current interests primarily include:
+- Post-pretraining algorithms and data, especially for tackling complex reasoning, coding, and mathematical problems
+- Long context and efficiency
+- LLMs for accelerating scientific research
 
-Outside of work, I cater to the whims of a quartet of furry overlords: [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), [Sylvie](../assets/img/pets/sylvie.jpg), and [Kea](../assets/img/pets/kea.JPG).
+
+Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), [Sylvie](../assets/img/pets/sylvie.jpg), and [Kea](../assets/img/pets/kea.JPG).
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpeg) in the winter.
