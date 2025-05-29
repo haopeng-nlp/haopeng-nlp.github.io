@@ -26,7 +26,7 @@ I am an Assistant Professor at the [Department of Computer Science](https://cs.i
 I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). I spent one year at the [Allen Institute for Artificial Intelligence](https://allenai.org/) as a Young Investigator, and time at Microsoft Research, Google, and DeepMind as an intern.
 
 My research broadly spans **natural language processing** and **machine learning**. My current interests primarily include:
-- Post-pretraining algorithms and data, especially for tackling complex reasoning, coding, and mathematical problems
+- Post-training algorithms and data, especially for tackling complex reasoning, coding, and mathematical problems
 - Long context and efficiency
 - LLMs for accelerating scientific research
 
