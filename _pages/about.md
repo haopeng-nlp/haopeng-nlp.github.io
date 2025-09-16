@@ -35,4 +35,4 @@ Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../a
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpeg) in the winter.
 
 
-<span style="color: #C65D3C;">Undergraduate and master’s students: We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, the best way to get in touch is by email. When reaching out, please read at least one of our recent papers that excites you and ask a few questions about it in your message. Please start your subject line with [Meera+Loki+Sylvie+Kea] to indicate that you have read this message.</span>
+Undergraduate and master’s students: We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, the best way to get in touch is by email. When reaching out, please read at least one of our recent papers that excites you and ask a few questions about it in your message. Please start your subject line with [Meera+Loki+Sylvie+Kea] to indicate that you have read this message.
