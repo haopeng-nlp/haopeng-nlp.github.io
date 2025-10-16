@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor at the [Department of Computer Science](https://cs.illinois.edu/) of the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/).
 
-I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). I spent one year at the [Allen Institute for Artificial Intelligence](https://allenai.org/) as a Young Investigator, and time at Microsoft Research, Google, and DeepMind as an intern.
+I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). I spent one year at the [Allen Institute for Artificial Intelligence](https://allenai.org/) as a Young Investigator, and time at Microsoft Research, Google, and DeepMind.
 
 
 
