@@ -28,10 +28,10 @@ I received my Ph.D. from the [University of Washington](https://www.washington.e
 
 
 My current research interests focus on **large language models (LLMs)**. Specifically, I work on AI towards:
-- Solving complex reasoning problems in a generalizable way; I believe that learning from experience (e.g., through *reinforcement learning*) and insights from *human cognition* are crucial towards this goal;
-- Understanding and reasoning *causally* about the world;
+- Solving complex reasoning problems in a generalizable way; I believe that learning from experience (e.g., through **reinforcement learning**) and insights from **human cognition** are crucial towards this goal;
+- Understanding and reasoning about the world **causally**;
 - Positively impacting society;
-- Advancing the frontier of human knowledge and contributing to *scientific discovery*, which I see as the ultimate demonstration of true generalization beyond the human knowledge they have been trained on.
+- Advancing the frontier of human knowledge and contributing to **scientific discovery**, which I see as the ultimate demonstration of true generalization beyond the human knowledge they have been trained on.
 
 
 Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), [Sylvie](../assets/img/pets/sylvie.jpg), and [Kea](../assets/img/pets/kea.JPG).
