@@ -4,6 +4,6 @@ title: Lifan<br>Yuan
 description: CS
 img: assets/img/students/lifan.jpeg
 redirect: https://lifan-yuan.github.io/
-importance: 8
+importance: 6
 category: "PhD students"
 ---
