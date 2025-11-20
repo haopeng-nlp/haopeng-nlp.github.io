@@ -27,8 +27,8 @@ I received my Ph.D. from the [University of Washington](https://www.washington.e
 
 
 
-My current research interests focus on **large language models (LLMs)**. Specifically, I work on AI towards:
-- Solving complex reasoning problems in a generalizable way; I believe that learning from experience (e.g., through **reinforcement learning**) and insights from **human cognition** are crucial towards this goal;
+My current research interests focus on **large language models (LLMs)**. Recently, I focus on AI towards:
+- Solving complex reasoning problems in a generalizable and data-efficient way; I believe that learning from experience (e.g., through **reinforcement learning**) and insights from **human cognition** are crucial towards this goal;
 - Understanding and reasoning about the world **causally**;
 - Positively impacting society;
 - Advancing the frontier of human knowledge and contributing to **scientific discovery**, which I see as the ultimate demonstration of true generalization beyond the human knowledge they have been trained on.
@@ -38,4 +38,8 @@ Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../a
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpg) in the winter.
 
 
-Undergraduate and master’s students: We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, the best way to get in touch is by email. When reaching out, please read one of our recent papers that excites you and ask a few questions about it in your message. Please start your subject line with [Meera+Loki+Sylvie+Kea] to indicate that you have read this message.
+**Undergraduate and master’s students:** We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, send me an email right away if
+- you have experience with Lean and are excited about mathematical theorem proving; **or**
+- you’re comfortable with post-training engineering and interested in building foundation models for chemistry.
+
+If neither describes you, please read one of our recent papers that excites you and ask a couple of questions about it in your email; please begin your subject line with [Meera+Loki+Sylvie+Kea].
