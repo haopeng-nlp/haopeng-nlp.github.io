@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an Assistant Professor at the [Department of Computer Science](https://cs.illinois.edu/) of the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/). I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). 
+I am an Assistant Professor at the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu) of the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/). I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). 
 
 
 I'm broadly interested in **large language models (LLMs)**. Recently, I focus on AI towards:
