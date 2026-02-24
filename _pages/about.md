@@ -35,8 +35,5 @@ Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../a
 When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) in the summer, and (backcountry) [ski](../assets/img/fun/alta.jpg) in the winter.
 
 
-**Undergraduate and master’s students:** We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, send me an email right away if
-- you have experience with Lean and are excited about mathematical theorem proving; **or**
-- you’re comfortable with post-training engineering and interested in building foundation models for chemistry.
+**Undergraduate and master’s students:** We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, please start by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScAKOLIZJMOQ14VaSA-vzOnsApAwbLgOHLZd-rjZ-iyiD2LLw/viewform?usp=dialog).
 
-If neither describes you, please read one of our recent papers that excites you and ask a couple of questions about it in your email; please begin your subject line with [Meera+Loki+Sylvie+Kea].
