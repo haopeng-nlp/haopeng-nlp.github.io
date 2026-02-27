@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Pavan<br>Jayasinha
-description: UWaterloo
+description: UWaterloo CS
 img: assets/img/students/pavan.jpg
 redirect: https://pavanjay.com
-importance: 12
+importance: 1
 category: "Undergrad students"
 ---
