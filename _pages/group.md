@@ -20,7 +20,7 @@ I will be taking a couple of graduate students this coming cycle. Checkout <a hr
   {%- for category in page.display_categories %}
   <h2 class="category"> <b> {{ category }}</b></h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  {%- assign sorted_projects = categorized_projects | sort: "title" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
