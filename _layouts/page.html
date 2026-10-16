@@ -4,9 +4,14 @@ layout: default
 <!-- page.html -->
 <div class="post">
 
-  <header class="post-header">
+  <header class="post-header{% if page.alta_brand %} alta-heading{% endif %}">
+    <div>
     <h1 class="post-title"><b>{{ page.title }}</b></h1>
+    {% if page.description %}
     <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+    </div>
+    {% if page.alta_brand %}{% include alta_brand.html %}{% endif %}
   </header>
 
   <article>

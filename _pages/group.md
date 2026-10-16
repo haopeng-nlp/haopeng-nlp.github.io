@@ -5,6 +5,7 @@ permalink: /group/
 nav: true
 horizontal: false
 nav_order: 2
+alta_brand: true
 display_categories: ["PhD students", "Masters students", "Undergrad students"]
 ---
 

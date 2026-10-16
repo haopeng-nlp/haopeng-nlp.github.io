@@ -26,6 +26,7 @@ hr {
 table {
   td,
   th {
+    color: var(--global-text-color);
     font-size: 1rem;
   }
 
@@ -36,7 +37,7 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-link-color);
 
   &:hover {
     color: var(--global-theme-color);
@@ -346,7 +347,41 @@ blockquote {
   }
 }
 
+.news .table {
+  th {
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: top;
+    padding-right: 1.25rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  td { vertical-align: top; }
+}
+
+@media (max-width: 575.98px) {
+  .news .table {
+    tr { display: block; margin-bottom: 0.75rem; }
+    th,
+    td { display: block; width: auto; }
+    th { padding-bottom: 0; }
+  }
+}
+
 // Social (bottom)
+
+.social-x-icon {
+  width: 0.9em;
+  height: 0.9em;
+  vertical-align: -0.08em;
+  color: var(--global-text-color);
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover .social-x-icon,
+a:focus-visible .social-x-icon {
+  color: var(--global-theme-color);
+}
 
 .social {
   text-align: center;
@@ -1023,6 +1058,57 @@ nav[data-toggle="toc"] {
     visibility: hidden;
     height: 0;
     top: 0;
+  }
+}
+
+// Keep Alta branding secondary to the personal/page title.
+.alta-heading {
+  display: flex;
+  margin-bottom: 1.25rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+
+  .post-title { margin-bottom: 0; }
+}
+
+.alta-brand {
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.25rem 0.6rem;
+  border-radius: 0.5rem;
+  color: var(--global-text-color-light);
+  text-decoration: none;
+
+  img {
+    display: block;
+    width: 112px;
+    height: 68px;
+    object-fit: cover; // Hide transparent vertical padding without altering the logo.
+  }
+
+  &:hover { text-decoration: none; color: var(--global-theme-color); }
+  &:focus-visible { outline: 2px solid var(--global-theme-color); outline-offset: 4px; }
+}
+
+html[data-theme='dark'] .alta-brand img {
+  // Lift the transparent mark off the dark page without adding a light tile.
+  filter: brightness(1.65) saturate(0.85);
+}
+
+@media (max-width: 576px) {
+  .profile.float-right,
+  .profile.float-left {
+    float: none !important;
+    width: min(100%, 260px);
+    margin: 0 auto 1.5rem;
+  }
+
+  .alta-brand {
+    padding: 0.2rem 0.35rem;
+    img { width: 88px; height: 54px; }
   }
 }
 

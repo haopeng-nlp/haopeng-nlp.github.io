@@ -24,11 +24,7 @@ social: true  # includes social icons at the bottom of the page
 I am an Assistant Professor at the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu) of the [University of Illinois at Urbana-Champaign (UIUC)](https://illinois.edu/). I received my Ph.D. from the [University of Washington](https://www.washington.edu/), with [Noah Smith](https://nasmith.github.io/), and my Bachelors Degree from [Peking University](https://english.pku.edu.cn/). 
 
 
-I'm broadly interested in **large language models (LLMs)**. Recently, I focus on AI towards:
-- Solving complex reasoning problems in a generalizable and data-efficient way; I believe that learning from experience (e.g., through **reinforcement learning**) and insights from **human cognition** are crucial towards this goal;
-- Understanding and reasoning about the world **causally**;
-- Positively impacting society;
-- Advancing the frontier of human knowledge and contributing to **scientific discovery**, which I see as the ultimate demonstration of true generalization beyond the human knowledge they have been trained on.
+I build intelligent systems that help make decisions under the uncertainty inherent in real-world problems, especially in scientific discovery and healthcare. Towards that, I currently study LLM post-training, causal reasoning, and agents that learn from accumulated experience.
 
 
 Outside work, I cater to the whims of a quartet of furry overlords: [Meera](../assets/img/pets/meera.jpg), [Loki](../assets/img/pets/loki.jpg), [Sylvie](../assets/img/pets/sylvie.jpg), and [Kea](../assets/img/pets/kea.JPG).
@@ -36,4 +32,3 @@ When they release me from their service, I [cycle](../assets/img/fun/stp.jpeg) i
 
 
 **Undergraduate and master’s students:** We love hearing from motivated undergraduate and master’s students! If you’d like to collaborate with us, please start by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLScAKOLIZJMOQ14VaSA-vzOnsApAwbLgOHLZd-rjZ-iyiD2LLw/viewform?usp=dialog).
-

@@ -3,7 +3,7 @@ layout: page
 title: Dylan<br>Zhang
 description: CS
 img: assets/img/students/dylan.webp
-redirect: https://lemon-agreement-54e.notion.site/dylanzhang
+redirect: https://dylanzsz.github.io/
 importance: 7
 category: "PhD students"
 ---
